@@ -591,3 +591,23 @@
 	--button-background:#0B5CFF;
   --button-border:1px solid #FFFFFF;
 }
+
+/* VK */
+.button-vk {
+	--button-text:#ffffff;
+	--button-background:#0077FF;
+  --button-border:1px solid #FFFFFF;
+}
+
+/* Boosty */
+.button-boosty {
+	--button-text:#FFFFFF;
+	--button-background:#242B2C;
+  --button-border:1px solid #FFFFFF;
+}
+
+/* Tapas */
+.button-tapas {
+	--button-text:#060616;
+	--button-background:#f6b606;
+}
